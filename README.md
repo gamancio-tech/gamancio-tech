@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Gamancio 👋</h1>
+<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
 <h3 align="center">Estudante de Ciência da Computação | Técnico em Mecatrônica | Back-end em construção</h3>
 
