@@ -106,18 +106,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gamancio-tech&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamancio-tech&layout=compact&hide_border=true&title_color=2F80ED" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamancio-tech&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
-</p>
-
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gamancio-tech&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&row=1" alt="trophy showcase" />
 </p>
 
 ---
