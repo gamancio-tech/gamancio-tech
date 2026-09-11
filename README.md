@@ -1,23 +1,29 @@
-<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6DD5FA&height=180&section=header&text=Gamancio%20Amancio&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20em%20constru%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=fadeIn" alt="header banner" />
 
-<h3 align="center">Estudante de Ciência da Computação | Técnico em Mecatrônica | Back-end em construção</h3>
+<h3 align="center">🎓 Estudante de Ciência da Computação  |  🔧 Técnico em Mecatrônica  |  🏗️ Back-end em construção</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Construindo+APIs+com+Node.js+e+TypeScript;Aplicando+arquitetura+em+camadas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gamancio-tech&style=for-the-badge&color=2F80ED&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="profile views" />
+</p>
+
+<p align="center">⭐ Se algum dos meus projetos te ajudar, deixe uma estrela — significa muito!</p>
+
 ---
 
-### 🎓 Formação
+## 🎓 Formação
 
 - 🔧 **Técnico em Mecatrônica** — ETEC
 - 💻 **Ciência da Computação** — Unifran *(cursando)*
 
-Venho de uma base técnica em automação e sistemas eletromecânicos e estou migrando esse raciocínio lógico e estruturado para o desenvolvimento de software, com foco atual em back-end.
+> Venho de uma base técnica em automação e sistemas eletromecânicos e estou migrando esse raciocínio lógico e estruturado para o desenvolvimento de software, com foco atual em back-end.
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
 - 🔭 Atualmente construindo **APIs REST** com Node.js, TypeScript e Express 
 - 🏗️ Praticando arquitetura em camadas (**Controller → Service → Repository**)
@@ -27,7 +33,7 @@ Venho de uma base técnica em automação e sistemas eletromecânicos e estou mi
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -45,7 +51,8 @@ Venho de uma base técnica em automação e sistemas eletromecânicos e estou mi
 *Stack identificada a partir dos meus próprios repositórios: TypeScript e Node.js (Express) para APIs, além de Python, HTML e CSS em projetos de estudo.*
 
 ---
-### 💼 Projetos para a Infotell (empresa em que trabalho)
+
+## 💼 Projetos para a Infotell (empresa em que trabalho)
 
 <table>
 <tr>
@@ -82,7 +89,8 @@ Venho de uma base técnica em automação e sistemas eletromecânicos e estou mi
 > Esses dois projetos representam o meu trabalho real na Infotell e mostram tanto front-end (Astro, animações, arquitetura de componentes) quanto back-end de um sistema ainda em desenvolvimento (API REST, arquitetura em camadas)
 
 ---
-### 📌 Projetos em destaque
+
+## 📌 Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -95,23 +103,28 @@ Venho de uma base técnica em automação e sistemas eletromecânicos e estou mi
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gamancio-tech&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamancio-tech&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gamancio-tech&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamancio-tech&layout=compact&hide_border=true&title_color=2F80ED" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamancio-tech&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamancio-tech&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
+</p>
+
+## 🏆 Troféus
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gamancio-tech&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=7&row=1" alt="trophy showcase" />
 </p>
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
-<p align="left">
-  <!-- Substitua os links abaixo pelos seus reais -->
+<p align="center">
   <a href="mailto:gustavoamanciocom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/gustavo-amanci0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -119,3 +132,5 @@ Venho de uma base técnica em automação e sistemas eletromecânicos e estou mi
 ---
 
 <p align="center"><i>Este perfil está em constante evolução, assim como meus estudos em Ciência da Computação 🚀</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2F80ED&height=100&section=footer" alt="footer banner" />
