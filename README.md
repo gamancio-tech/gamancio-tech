@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6DD5FA&height=180&section=header&text=Gamancio%20Amancio&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20em%20constru%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=fadeIn" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:6DD5FA&height=180&section=header&text=Gustavo%20Amancio&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20em%20constru%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=fadeIn" alt="header banner" />
 
-<h3 align="center">🎓 Estudante de Ciência da Computação  |  🔧 Técnico em Mecatrônica  |  🏗️ Back-end em construção</h3>
+<h3 align="center">🎓 Graduando em Ciência da Computação  |  🔧 Técnico em Mecatrônica  |  🏗️ Back-end em construção</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Construindo+APIs+com+Node.js+e+TypeScript;Aplicando+arquitetura+em+camadas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
